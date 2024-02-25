@@ -1,23 +1,17 @@
 # Hello, I'm Nihil! 👋
 
-I'm an Android enthusiast passionate about creating innovative modules and applications to enhance your device experience. I dabble in Kotlin and Bash scripting, constantly exploring new possibilities.
+I'm an Android enthusiast passionate about creating innovative modules and applications to enhance your device experience. Currently, I'm working on [GriffithTweaks](https://github.com/haxislancelot/GriffithTweaks), a versatile kernel manager designed to optimize your device's performance.
 
 ## Connect with Me
 
 - Telegram: [@donottellmyname](https://t.me/donottellmyname)
-- [NihilProjects Channel](https://t.me/nihilprojects): Explore my latest projects and updates.
-- [NihilStuff Group](https://t.me/nihilstuff): Join the community to discuss and share ideas.
+- [GriffithTweaks Project](https://github.com/haxislancelot/GriffithTweaks): Check out my latest project and contribute if you're interested.
 
 ## Technologies I Love
 
 - Kotlin 🚀
 - Bash 🖥️
 - Android Development 📱
-
-## Featured Projects
-
-- [Project 1](link_to_project_1): Brief description.
-- [Project 2](link_to_project_2): Brief description.
 
 ## Let's Connect
 
